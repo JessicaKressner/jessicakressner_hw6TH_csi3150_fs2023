@@ -1,0 +1,16 @@
+.hero {
+  background-image: url(../../Assets/HeroSection-bg-image.jpg);
+  height: 250px;
+  background-size: cover;
+}
+
+.hero h1 {
+  text-align: center;
+  font-size: 48px;
+  color: white;
+}
+
+.hero h2 {
+  text-align: center;
+  color: white;
+}
